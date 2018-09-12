@@ -15,13 +15,13 @@ Please read and follow the instructions carefully to be able to properly enter t
 
 Open an issue in the issues section at the top in the following format:
 
-Project Name - <Name of your project>
-Team Members (Github Name included) - <Name, github username>
-Team Contact Email - <teamname@email.com>
+Project Name - \<Name of your project> <br>
+Team Members (Github Name included) - \<Name, github username> <br>
+Team Contact Email - \<team@email.com> <br>
 
-Project Pitch - <300 word pitch of your project>
-Project Repository - <Repository link to your project>
-Video Recording of Application - <Link to visual recording of application>
+Project Pitch - \<300 word pitch of your project> <br>
+Project Repository - \<Repository link to your project> <br>
+Video Recording of Application - \<Link to visual recording of application> <br>
 
 # DeveryJS
 
