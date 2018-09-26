@@ -25,4 +25,4 @@ Video Recording of Application - \<Link to visual recording of application> <br>
 
 # DeveryJS
 
-DeveryJS is the JavaScript framework that allows applications to interact with these smart contracts without knowledge of Solidity or advanced knowledge of the workings of the blockchain.
+DeveryJS is the JavaScript framework that allows verification applications to interact with smart contracts without thorough knowledge of Solidity or advanced knowledge of the blockchain.
